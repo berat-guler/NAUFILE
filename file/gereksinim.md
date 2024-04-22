@@ -8,7 +8,7 @@
 
 **Kayıt ol**: Kullanıcıdan; kullanıcı adı, e-posta ve şifre bilgileri alınarak yeni bir kullanıcı oluşturulur.
 
-**Past'ler**: Uygulamada paylaşılan bütün paste'lerin kullanıcıya gösterilmesi.
+**Paste'ler**: Uygulamada paylaşılan bütün paste'lerin kullanıcıya gösterilmesi.
 
 **Paste'lerim** : Kullanıcının paylaşmış olduğu paste'lerin listelenmesi. Kullanıcı bu alandan kendi paste'lerini görebilir.
 
