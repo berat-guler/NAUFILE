@@ -21,5 +21,5 @@
 5. [Veritabanı Diyagramı](./file/db.md)
 6. [Front-End](frontend.md)
 7. [Back-End](README.md)
-8. [Video Sunum](Sunum.md)
+8. [Video Sunum]()
 9. [Geliştirici ve Kullanıcı Dökümantasyonları](README.md)
