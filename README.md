@@ -1,6 +1,6 @@
 # NAUFILE
 
-**Proje Tanımı**: Metin tabanlı dosya paylaşım platformu.
+**Proje Tanımı**: Metin tabanlı anonim dosya paylaşım platformu.
 
 **Proje Kategorisi**: Forum
 
