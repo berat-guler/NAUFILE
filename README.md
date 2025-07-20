@@ -19,7 +19,7 @@
 3. [Durum Diyagramı](./file/diyagram.md)
 4. [Durum Senaryoları](./file/use_case.pdf)
 5. [Veritabanı Diyagramı](./file/db.md)
-6. [Front-End](README.md)
+6. [Front-End](frontend.md)
 7. [Back-End](README.md)
 8. [Test](README.md)
 9. [Geliştirici ve Kullanıcı Dökümantasyonları](README.md)
