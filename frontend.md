@@ -1,0 +1,9 @@
+
+
+# Ömer Gerat Güler Frontend #
+1. paste oluştur
+2. 
+3. 
+4. .....
+5. .....
+6. ....
