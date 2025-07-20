@@ -2,7 +2,7 @@ Domain Adresi: [naufile.site](https://naufile.site/)
 
 Docker: Kullanılmadı.
 
-REST API: Kullanıldı (XHR) videoda gösteriliyor.
+REST API: Kullanıldı (XHR+fetch) videoda gösteriliyor.
 
 Redis: purge ve traffic limiter kullanıldı.
 
