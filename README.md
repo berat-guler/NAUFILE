@@ -12,7 +12,7 @@
 
 **Proje Ekibi**:
 
-- Ömer Berat Güler
+- Ömer Berat Güler 2021012068
 
 1. [Proje Planı](./file/cizelge.md)
 2. [Gereksinim Analizi](./file/gereksinim.md)
